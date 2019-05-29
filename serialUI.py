@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
+
 Module implementing MainWindow.
 """
 
