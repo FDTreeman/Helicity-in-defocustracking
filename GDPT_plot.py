@@ -46,7 +46,7 @@ def project_data(df,n):
     return df2
     
  
-def plotfield2helicity(df,keys,normalize = True,rhomin=0.,v0=0.,figsize=[8,5],fontsize=16,fontdict={'weight':'normal','size': 30},
+def plotstreamingfield(df,keys,normalize = True,rhomin=0.,v0=0.,figsize=[8,5],fontsize=16,fontdict={'weight':'normal','size': 30},
                        cmap_font='Blues',cmap='hot_r',arrow_color='vy',scaling='none',fps=5,X0=1000,Y0=1000,
                        plt_point =False,title=False,viewer = 'azimuthal',scale=None):
     '''
