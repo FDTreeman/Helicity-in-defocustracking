@@ -1,6 +1,6 @@
 ## Helicity-in-defocustracking
 
-## Aim:
+### Aim:
 **This project is used to calculate helicity, vorticity and acoustic streaming. Also, this project can give a visualization of helicity, vorticity and acoustic streaming (in axial and azimuthal directions).**
 
 
