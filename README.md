@@ -1,4 +1,4 @@
-## Helicity-in-defocustracking
+## Helicity-in-defocustracking: a python module to compute vorticity and helicity from particle tracking data.
 
 ### Aim:
 This project is used to calculate helicity, vorticity and acoustic streaming. Also, this project can give a visualization of helicity, vorticity and acoustic streaming (in axial and azimuthal directions).
